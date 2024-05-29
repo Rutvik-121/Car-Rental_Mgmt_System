@@ -1,2 +1,2 @@
-# Car-Rental_Mgmt_System
+# Car_Rental_Mgmt_System
 Software Engineering Project
